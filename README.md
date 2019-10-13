@@ -21,3 +21,11 @@ How to
  lt --port 8080
       
 How you will have a public url !!
+
+------------------------------------------------------------------------------------------------------------------
+
+Additional info by ackroydAI (aimissq)
+
+if localtunnel won't punch thru say a gsm/mobile F/W box/isp or you are using DNSmasque then try this - it works
+
+http://serveo.net/blog/remote-access-to-ssh-servers-using-serveo
