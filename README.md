@@ -18,7 +18,7 @@ How to
  5. Check http://localhost:8080/      
  6. In a new tab of terminal run:
  
- lt --port 8080
+ lt --port 8080  (or use serveo which works well with autossh)
       
 How you will have a public url !!
 
