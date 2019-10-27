@@ -7,7 +7,7 @@ Create a public url for a static site from localhost
 How to
 ======
  1. Install nodeJS http://nodejs.org/
- 2. Install https://localtunnel.me/
+ 2. Install https://localtunnel.me/ or http://serveo.net/blog/remote-access-to-ssh-servers-using-serveo
  
  npm install -g localtunnel
  3. Dowload repo and inside 'view' folder put your static site. Be aware that in view folder
