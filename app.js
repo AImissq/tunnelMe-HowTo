@@ -1,6 +1,8 @@
-var express = require('express');
+var express = require("express");
 
-var app = express.createServer();
+
+var app = express();
+
 app.engine('html', require('ejs').renderFile);
 
 app.set('views', __dirname + '/views');
