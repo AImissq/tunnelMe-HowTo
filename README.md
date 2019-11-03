@@ -30,4 +30,4 @@ if localtunnel won't punch thru say a gsm/mobile F/W box/isp or you are using DN
 
 http://serveo.net/blog/remote-access-to-ssh-servers-using-serveo
 
-This is another free solution, albeit no option for a custom domain, nut works well http://localhost.run/
+This is another free solution, albeit no option for a custom domain, but works well http://localhost.run/
