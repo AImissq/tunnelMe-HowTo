@@ -20,7 +20,7 @@ How to
  
  lt --port 8080  (or use serveo which works well with autossh)
       
-How you will have a public url !!
+Now you will have a public url !!
 
 ------------------------------------------------------------------------------------------------------------------
 
