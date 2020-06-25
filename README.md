@@ -1,24 +1,28 @@
 tunnelMe-HowTo
 ==============
 
+1. Install nodeJS http://nodejs.org/
+
 Create a public url for a static site from localhost
 
 
 How to
 ======
- 1. Install nodeJS http://nodejs.org/
- 2. Install https://localtunnel.me/ or http://serveo.net/blog/remote-access-to-ssh-servers-using-serveo
+
+ 2. Get a free public URL for localhost from https://serveo.net/ example -  ssh -R 80:localhost:8080 serveo.net
+ 3. OR get a public URL from https://ngrok.com/
+ 4. OR get a public URL from https://localhost.run/
+ 5. Or get a publc URL from  https://pagekite.net/
  
- npm install -g localtunnel
- 3. Dowload repo and inside 'view' folder put your static site. Be aware that in view folder
+ 6. Dowload repo and inside 'view' folder put your static site. Be aware that in view folder
     must be present a 'index.html' file
- 4. Start node app
+ 7. Start node app
  
  node app.js
- 5. Check http://localhost:8080/      
- 6. In a new tab of terminal run:
+ 8. Check http://localhost:8080/      
+ 9. In a new tab of terminal run:
  
- lt --port 8080  (or use serveo which works well with autossh)
+ 
       
 Now you will have a public url !!
 
