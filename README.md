@@ -23,7 +23,7 @@ How to
  8. Check http://localhost:8080/      
 
       
- 9.Now you will have a public url !!
+  9.Now you will have a public url !!
 
 ------------------------------------------------------------------------------------------------------------------
 
