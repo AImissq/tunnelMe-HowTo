@@ -18,12 +18,12 @@ How to
     must be present a 'index.html' file
     
 
-7. In a new tab of terminal run: node app.js
+ 7. In a new tab of terminal run: node app.js
  
-8. Check http://localhost:8080/      
+ 8. Check http://localhost:8080/      
 
       
-Now you will have a public url !!
+ 9.Now you will have a public url !!
 
 ------------------------------------------------------------------------------------------------------------------
 
