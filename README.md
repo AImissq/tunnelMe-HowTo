@@ -16,13 +16,12 @@ How to
  
  6. Dowload repo and inside 'view' folder put your static site. Be aware that in view folder
     must be present a 'index.html' file
- 7. Start node app
+    
+
+7. In a new tab of terminal run: node app.js
  
- node app.js
- 8. Check http://localhost:8080/      
- 9. In a new tab of terminal run:
- 
- 
+8. Check http://localhost:8080/      
+
       
 Now you will have a public url !!
 
