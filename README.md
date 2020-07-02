@@ -3,6 +3,8 @@ tunnelMe-HowTo
 
 1. Install nodeJS http://nodejs.org/
 
+git clone https://github.com/AImissq/tunnelMe-HowTo.git  or download the zip
+
 Create a public url for a static site from localhost
 
 
