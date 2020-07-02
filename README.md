@@ -5,6 +5,12 @@ tunnelMe-HowTo
 
 git clone https://github.com/AImissq/tunnelMe-HowTo.git  or download the zip
 
+put files to be served in views folder - index.html will automatically be rendered and served
+
+Run "node app.js"
+
+Browse to 127.0.0.1:8080
+
 Create a public url for a static site from localhost
 
 
