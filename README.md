@@ -22,7 +22,7 @@ How to
  4. OR get a public URL from https://localhost.run/
  5. Or get a publc URL from  https://pagekite.net/
  
- 6. Dowload repo and inside 'view' folder put your static site. Be aware that in view folder
+ 6. Dowload repo and inside 'views' folder put your static site. Be aware that in view folder
     must be present a 'index.html' file
     
 
